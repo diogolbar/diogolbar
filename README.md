@@ -1,4 +1,4 @@
-### Hi there, I'm Diogo! 👋
+### Hi there, my name is Diogo! 👋
 
 👨‍💼 If you are a recruiter/headhunter check out my [Data Science Portfolio](https://github.com/diogolbar/portfolio).
 #### About me:
