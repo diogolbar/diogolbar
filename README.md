@@ -2,7 +2,7 @@
 
 👨‍💼 If you are a recruiter/headhunter check out my [Data Science Portfolio](https://github.com/diogolbar/portfolio).
 #### About me:
-- 🔬 I'm a physicist looking for opportunities to help people solve their problems using data!
+- 🔬 I'm looking for opportunities to help people solve their problems using data!
 - 🤓 I'm a bookworm and addicted to learn new things.
 - 🤝 Connect with me via [Linkedin](https://www.linkedin.com/in/diogolbar/)
 - ✉️ e-mail: diogolbar@gmail.com
